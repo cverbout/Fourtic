@@ -2,7 +2,7 @@
 
 The Fourtic Game Solver is a Python program designed to solve a variant of the classic Tic-Tac-Toe game, where the board is a 4x4 grid and scoring is based on a new set of rules defined below. This program features a Negamax Depth Search algorithm capable of assesing the board and returning the current player and their position value.
 
-Fourtic was Created by Bart Massey
+Fourtic was Created by Bart Massey. 
 
 ## Modules and Constants
 
